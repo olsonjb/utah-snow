@@ -1,0 +1,68 @@
+let mock = [
+  {
+    id: 1,
+    name: "Brighton",
+    image: "brighton.jpg",
+    ticketPrice: "$115.00",
+    lifts: 6,
+    night: "Yes",
+  },
+  {
+    id: 2,
+    name: "Deer Valley",
+    image: "deervalley.jpg",
+    ticketPrice: "$199.00",
+    lifts: 21,
+    night: "No",
+  },
+  {
+    id: 3,
+    name: "Park City",
+    image: "parkcity.jpg",
+    ticketPrice: "$199.00",
+    lifts: 42,
+    night: "No",
+  },
+  {
+    id: 4,
+    name: "Powder Mountain",
+    image: "powdermtn.jpg",
+    ticketPrice: "$110.00",
+    lifts: 9,
+    night: "Yes",
+  },
+  {
+    id: 5,
+    name: "Snowbird",
+    image: "snowbird.jpg",
+    ticketPrice: "$145.00",
+    lifts: 14,
+    night: "No",
+  },
+  {
+    id: 6,
+    name: "Solitude",
+    image: "solitude.jpg",
+    ticketPrice: "TBA",
+    lifts: 8,
+    night: "No",
+  },
+  {
+    id: 7,
+    name: "Sundance",
+    image: "sundance.jpg",
+    ticketPrice: "$119.00",
+    lifts: 8,
+    night: "Yes",
+  },
+  {
+    id: 8,
+    name: "Woodward",
+    image: "woodward.jpg",
+    ticketPrice: "$79.00",
+    lifts: 4,
+    night: "Yes",
+  },
+];
+
+export default mock;
